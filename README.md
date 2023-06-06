@@ -1,15 +1,18 @@
-# 🚀 Welcome to your new awesome project!
+<h1 align="center">
+  g-dict
+ </h1>
 
-This project has been created using **webpack-cli**, you can now run
+<h6 align="center">
+  使用字典数据生成 typing.d.ts 类型文件 
+</h6>
 
-```
-npm run build
-```
+<div align="center">
+  
+[![npm-image]][npm-url] [![npm-download]][npm-url] [![npm-size-image]][npm-url]
+  
+</div>
 
-or
-
-```
-yarn build
-```
-
-to bundle your application
+[npm-image]: https://img.shields.io/npm/v/g-dict.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/g-dict
+[npm-download]: https://img.shields.io/npm/dt/g-dict
+[npm-size-image]: https://img.shields.io/bundlephobia/min/g-dict
